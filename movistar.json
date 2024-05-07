@@ -1,0 +1,58 @@
+[
+    {
+        "internet":[
+            {
+                "plan":"fibra_optica",
+                "precio":"85.000",
+                "capacidad":[]
+            },
+            {
+                "plan":"plan_pospago",
+                "precio":"50.000",
+                "capacidad":[]
+            },
+            {
+                "plan":"plan_prepago",
+                "precio":"45.000",
+                "capacidad":[]
+            }
+        ]
+    },
+    {
+        "usuarios":[
+            {
+                "usuario":1,
+                "nombre":"leidy",
+                "apellido":"machuca",
+                "direccion":"1 - 70 barrio el puerto",
+                "numero_celular":"3134567923",
+                "plan":"fibra_optica"
+            },
+            {
+                "usuario":2,
+                "nombre":"esperanza",
+                "apellido":"machuca",
+                "direccion":"calle 33 # 33-65 la pastora",
+                "numero_celular":"3145689123",
+                "plan":"plan_pospago"
+            },
+            {
+                "usuario":3,
+                "nombre":"javier",
+                "apellido":"gomez",
+                "direccion":"calle 34 # 34 - 24 las delicias",
+                "numero_celular":"3124568912",
+                "plan":"plan_prepago"
+            }
+        ]
+    },
+    {
+        "clientes_nuevos":[
+            {
+                "cliente_regular":[],
+                "cliente_nuevo":[],
+                "cliente_leal":[]
+            }
+        ]
+    }
+]
